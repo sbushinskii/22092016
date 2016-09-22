@@ -1,0 +1,8 @@
+#get varnish info
+sudo nano /etc/default/varnish
+
+#varnish secret
+sudo nano /etc/varnish/secret 
+
+#varnish stat
+sudo varnishstat
